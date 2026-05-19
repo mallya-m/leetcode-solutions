@@ -1,8 +1,28 @@
-# leetcode-solutions
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0009-palindrome-number](https://github.com/mallya-m/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
-<!---LeetCode Topics End-->
+**📘 LeetCode DSA Solutions**
+
+This repository contains my daily Data Structures & Algorithms practice from LeetCode, automatically pushed using the LeetHub extension.
+
+**🚀 Purpose**
+
+Practice DSA daily
+Improve problem-solving skills
+Track consistency
+Prepare for coding interviews
+
+**🧠 Topics Covered**
+
+Arrays
+Strings
+Hashing
+Recursion (starting soon)
+Linked List (coming soon)
+
+**⚙️ Tech Stack**
+
+C++ / Java
+LeetCode platform
+LeetHub extension
+
+**📌 Note**
+
+I am currently focusing on easy problems and building fundamentals step by step.
